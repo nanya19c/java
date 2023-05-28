@@ -1,2 +1,2 @@
 # java
-2023 JavaProject 수업
+2023 JavaPrograming 수업
